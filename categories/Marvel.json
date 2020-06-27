@@ -1,0 +1,27 @@
+{
+"1":{
+        "question":"WHERE IS WAKANDA LOCATED? \n 1)South America \n  2)Alaska \n  3)Asia  \n  4)Africa \n ",
+        "answer":4,
+        "response":0
+},
+"2":{
+        "question":"Which is the first movie release in marvel universe? \n 1)Thor  \n  2)Captain America  \n  3)Iron Man  \n  4)Avengers \n ",
+        "answer":3,
+        "response":0
+},
+"3":{
+        "question":"What is the name of Thor's hammer? \n 1)Valmir \n   2)Mjolnir \n  3)Norn  \n  4)Aegis  \n ",
+        "answer":2,
+        "response":0
+},
+"4":{
+        "question":"What is Hawkeye's real name? \n 1)Wade Wilson  \n  2)Bart Clinton \n  3)Phil Coulson  \n  4)Steve Rogers \n ",
+        "answer":2,
+        "response":0
+},
+"5":{
+        "question":"Spiderman's first appearance was in which movie? \n  1)Civil War  \n  2)Avengers2 \n   3)Spiderman:Homecoming \n   4)Dark Knight Rises \n ",
+        "answer":1,
+        "response":0
+}
+}

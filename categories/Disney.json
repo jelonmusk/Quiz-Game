@@ -1,0 +1,27 @@
+{
+"1":{
+        "question":"What's the name of Snow White's prince? \n  1)Prince Philip  \n  2)Prince Eric  \n  3)Prince Florian   \n  4)Edward \n ",
+        "answer":3,
+        "response":0
+},
+"2":{
+        "question":"Who was the first Disney princess? \n  1)Cinderella  \n  2)Snowwhite  \n  3)Ariel  \n   4)Esmeralda \n ",
+        "answer":2,
+        "response":0
+},
+"3":{
+        "question":"What is the name of the boy who refuses to grow up?  \n 1)Michael Darling   \n 2)Peter Pan   3)Aladdin \n   4)Robin Hood \n ",
+        "answer":2,
+        "response":0
+},
+"4":{
+        "question":"What young boy creates the make-believe world of the Hundred Acre Wood?  \n 1)Peter Pan \n   2)Flynn Rider  \n  3)Simba   \n 4)Christopher Robin \n ",
+        "answer":4,
+        "response":0
+},
+"5":{
+        "question":"Which iconic Disney character made his debut in the 1928 animated short, Steamboat Willie?  \n 1)Goofy  \n  2)Donald Duck  \n  3)Pluto \n   4)Mickey Mouse \n ",
+        "answer":4,
+        "response":0
+}
+}

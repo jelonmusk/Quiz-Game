@@ -1,0 +1,27 @@
+{
+"1":{
+        "question":"Who does Harry live with when he finds out he’s a wizard? \n 1)The Weasleys  \n   2)By Himself   \n 3)The Dursleys   \n 4)His parents \n ",
+        "answer":3,
+        "response":0
+},
+"2":{
+        "question":"How are Dudley Dursley and Harry Potter related? \n 1)Brothers  \n  2)Cousins  \n 3)Neighbours  \n  4)Friends \n ",
+        "answer":2,
+        "response":0
+},
+"3":{
+        "question":"Which of these Hogwarts students comes from a Muggle family? \n 1)Hermoine Granger \n   2)Neville Longbottom \n  3)Ron Wealey  \n  4)Draco Malfoy \n ",
+        "answer":1,
+        "response":0
+},
+"4":{
+        "question":"Where do the Dursleys live? \n 1)Diagon Alley  \n  2)#12,WillowRoad  \n  3)#4,Privet Drive \n   4)Hogsmeade \n ",
+        "answer":3,
+        "response":0
+},
+"5":{
+        "question":"What is Professor Dumbledore’s favourite Muggle sweet? \n 1)Sherbet Dib Babs \n   2)Wine Gums  \n  3)HE hates Sweets  \n  4)Lemon Sherbet \n ",
+        "answer":4,
+        "response":0
+}
+}
